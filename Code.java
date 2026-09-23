@@ -14,8 +14,9 @@ public class Code {
         Collections.sort(fruits);
         System.out.println(fruits); // [Apple, Banana, Orange]
 
-        System.out.println("Hello User This is Just Demo Code acting as a test for jenkins");
+        System.out.println("Hello User This is Just Demo Code : Test for jenkins");
 
         System.out.println("Name : Ramish Naseer \n  Reg No : SP23-BAI-043");
+        
     }
 }
